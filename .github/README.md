@@ -9,11 +9,7 @@ v<h2 align="center">
 <h2 align="center">
 ━━━━━━━━━━━━━━━━━━━━
   
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
 
-## [ᴜᴘᴅᴀᴛᴇ](https://t.me/Abishnoi_bots)  
-
-## ⚡ (ɢɪᴠᴇ sᴛᴀʀ)
   
 ━━━━━━━━━━━━━━━━━━━━
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -33,7 +29,7 @@ v<h2 align="center">
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Abishnoi69/AsuXMusic"> <img src="https://img.shields.io/badge/Redirect%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Darklightning2008/Musicboi> <img src="https://img.shields.io/badge/Redirect%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
 
 ──────────
 
